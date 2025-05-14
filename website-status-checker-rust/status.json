@@ -1,0 +1,4 @@
+[
+  { "url": "https://example.com", "status": 200, "response_time_ms": 100, "timestamp": 1747258322 },
+  { "url": "https://notareal.website.zzz", "status": "error sending request for url (https://notareal.website.zzz/): error trying to connect: dns error: failed to lookup address information: Name or service not known", "response_time_ms": 20, "timestamp": 1747258322 }
+]
